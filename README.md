@@ -1,3 +1,8 @@
+# Groupe:
+Ferial Oukoukas
+Sabrine Benabdallah
+Anthony Leclerq 
+Adeniss Karti 
 # simple-astronomy-lib
 A simple and free astronomy library for calculating moon phases.
 
@@ -29,8 +34,6 @@ For a brief page on how to use this library, read the [Getting Started page](htt
   * Lunar Eclipse - find date of next lunar eclipse
   * Find location of sun or moon (right ascension, declination)
 
-### Schedule
+### Done
   * ~~move the "Getting Started" example to GitHub~~
-  * ~~Initial code commit before April 1, 2011~~ DONE!
-  * ~~Decent documentation on usage before June 30, 2011~~
-  * Jenkins CI builds (Q2 2015)
+  * Jenkins CI builds 
